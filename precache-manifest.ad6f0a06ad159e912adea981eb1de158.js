@@ -4,20 +4,16 @@ self.__precacheManifest = [
     "url": "/static/media/canary-sunset.29716d72.jpg"
   },
   {
-    "revision": "b9a5f9ab80e0387e256c",
-    "url": "/static/css/main.dbcfdb0a.chunk.css"
+    "revision": "4c8d79da6b63bb1d65da",
+    "url": "/static/css/main.1083ff31.chunk.css"
   },
   {
-    "revision": "99d7cb4fb16b7ce6b075",
-    "url": "/static/js/1.99d7cb4f.chunk.js"
+    "revision": "387f39108fe84766cd78",
+    "url": "/static/js/1.387f3910.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
-  },
-  {
-    "revision": "2a9a8f0aa512592dcfed97e89342200a",
-    "url": "/static/media/pixelPractice.2a9a8f0a.png"
   },
   {
     "revision": "e0ef49fa071f39949d6ec39894be3ffd",
@@ -28,8 +24,12 @@ self.__precacheManifest = [
     "url": "/static/media/caase-banner2.da986f2d.jpg"
   },
   {
-    "revision": "b9a5f9ab80e0387e256c",
-    "url": "/static/js/main.b9a5f9ab.chunk.js"
+    "revision": "0565b8c8424df8eb6fc0feed18bf964e",
+    "url": "/static/media/pixelPractice.0565b8c8.png"
+  },
+  {
+    "revision": "4c8d79da6b63bb1d65da",
+    "url": "/static/js/main.4c8d79da.chunk.js"
   },
   {
     "revision": "3f3333945aa12d92392abd00aae62f8e",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/AbigailKumar_November2018.c5802b10.pdf"
   },
   {
-    "revision": "4ca8469e200e041fa70a83db60192fc2",
+    "revision": "9203bd0aad071593961607c505e15a60",
     "url": "/index.html"
   }
 ];
