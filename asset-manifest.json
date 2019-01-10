@@ -1,12 +1,12 @@
 {
   "main.css": "/static/css/main.ef1b1c88.chunk.css",
-  "main.js": "/static/js/main.27415849.chunk.js",
-  "main.js.map": "/static/js/main.27415849.chunk.js.map",
+  "main.js": "/static/js/main.5c147da5.chunk.js",
+  "main.js.map": "/static/js/main.5c147da5.chunk.js.map",
   "static/js/1.387f3910.chunk.js": "/static/js/1.387f3910.chunk.js",
   "static/js/1.387f3910.chunk.js.map": "/static/js/1.387f3910.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/projects.css": "/static/media/caase-banner2.da986f2d.jpg",
+  "static/media/projects.css": "/static/media/pixelPractice.0565b8c8.png",
   "static/media/canary-sunset.jpg": "/static/media/canary-sunset.29716d72.jpg",
   "static/media/camels-2.jpeg": "/static/media/camels-2.3f333394.jpeg",
   "static/media/essaouira-birds.png": "/static/media/essaouira-birds.e6ec2615.png",
@@ -15,6 +15,6 @@
   "static/media/AbigailKumar_November2018.pdf": "/static/media/AbigailKumar_November2018.c5802b10.pdf",
   "static/css/main.ef1b1c88.chunk.css.map": "/static/css/main.ef1b1c88.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.60f7a0a46ecb0c6c1ecd59d36835facb.js": "/precache-manifest.60f7a0a46ecb0c6c1ecd59d36835facb.js",
+  "precache-manifest.35f986a5ea8b2f3d7c2e184bdc039134.js": "/precache-manifest.35f986a5ea8b2f3d7c2e184bdc039134.js",
   "service-worker.js": "/service-worker.js"
 }
