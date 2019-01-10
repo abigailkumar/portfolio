@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/canary-sunset.29716d72.jpg"
   },
   {
-    "revision": "a7a514038922c2776792",
-    "url": "/static/css/main.284c3acc.chunk.css"
+    "revision": "27415849911b512b3666",
+    "url": "/static/css/main.ef1b1c88.chunk.css"
   },
   {
     "revision": "387f39108fe84766cd78",
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/static/media/apparelshoot1.e0ef49fa.jpg"
   },
   {
-    "revision": "0565b8c8424df8eb6fc0feed18bf964e",
-    "url": "/static/media/pixelPractice.0565b8c8.png"
-  },
-  {
     "revision": "da986f2d4b405dce9e66d0935b6dd510",
     "url": "/static/media/caase-banner2.da986f2d.jpg"
   },
   {
-    "revision": "a7a514038922c2776792",
-    "url": "/static/js/main.a7a51403.chunk.js"
+    "revision": "0565b8c8424df8eb6fc0feed18bf964e",
+    "url": "/static/media/pixelPractice.0565b8c8.png"
+  },
+  {
+    "revision": "27415849911b512b3666",
+    "url": "/static/js/main.27415849.chunk.js"
   },
   {
     "revision": "3f3333945aa12d92392abd00aae62f8e",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/AbigailKumar_November2018.c5802b10.pdf"
   },
   {
-    "revision": "d9bd2bb666d98155c60568c366e2b796",
+    "revision": "aa22e9b16e652e4ba13947baea2b4dd8",
     "url": "/index.html"
   }
 ];
